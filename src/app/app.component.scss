@@ -1,0 +1,13 @@
+app-header {
+  width: 100%;
+  position: absolute;
+}
+
+app-pricing-card {
+  width: 500px;
+  position: absolute;
+  z-index: 2;
+  top: 350px;
+  right: 400px;
+  height: 100px;
+}

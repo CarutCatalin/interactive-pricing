@@ -1,0 +1,35 @@
+.card {
+  background-color: white;
+  width: 600px;
+  // position: relative;
+  border-radius: 15px;
+  // border: 1px solid black;
+  box-shadow: 0 10px 10px 0 rgb(208, 236, 246);
+}
+
+.views-price {
+  display: flex;
+  justify-content: space-between;
+  .price {
+    display: flex;
+  }
+}
+
+.slidebar {
+  display: flex;
+  justify-content: center;
+}
+
+.slider {
+  width: 400px;
+}
+
+.billing {
+  display: flex;
+  justify-content: space-around;
+}
+
+.benefits-subscription {
+  display: flex;
+  justify-content: center;
+}
